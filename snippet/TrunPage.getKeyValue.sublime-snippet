@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getKeyValue("${1:key}", ${2:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getKeyValue</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取键值</description>
+</snippet>

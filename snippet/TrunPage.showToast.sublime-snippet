@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.showToast("${1}");
+]]></content>
+    <tabTrigger>TrunPage.showToast</tabTrigger>
+    <scope>source.js</scope>
+    <description>信息提示</description>
+</snippet>

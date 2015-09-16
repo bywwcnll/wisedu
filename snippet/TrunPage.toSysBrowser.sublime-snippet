@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.toSysBrowser("${1:url}");
+]]></content>
+    <tabTrigger>TrunPage.toSysBrowser</tabTrigger>
+    <scope>source.js</scope>
+    <description>默认浏览器</description>
+</snippet>

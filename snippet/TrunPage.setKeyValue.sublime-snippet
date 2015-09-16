@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.setKeyValue("${1:key}", "${2}");
+]]></content>
+    <tabTrigger>TrunPage.setKeyValue</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置键值</description>
+</snippet>

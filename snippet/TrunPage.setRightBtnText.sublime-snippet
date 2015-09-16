@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.setRightBtnText("${1}");
+]]></content>
+    <tabTrigger>TrunPage.setRightBtnText</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置按钮文字</description>
+</snippet>

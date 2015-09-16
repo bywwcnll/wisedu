@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.callSysCamera(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.callSysCamera</tabTrigger>
+    <scope>source.js</scope>
+    <description>调用相机</description>
+</snippet>

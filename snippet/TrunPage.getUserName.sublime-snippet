@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getUserName(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getUserName</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取用户名</description>
+</snippet>

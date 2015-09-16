@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.setRightBtnImage("${1:src}");
+]]></content>
+    <tabTrigger>TrunPage.setRightBtnImage</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置按钮图片</description>
+</snippet>

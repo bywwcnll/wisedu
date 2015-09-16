@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.setRightBtnVisible(${1:true});
+]]></content>
+    <tabTrigger>TrunPage.setRightBtnVisible</tabTrigger>
+    <scope>source.js</scope>
+    <description>显隐右按钮</description>
+</snippet>

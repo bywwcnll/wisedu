@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.pageInit();
+]]></content>
+    <tabTrigger>TrunPage.pageInit</tabTrigger>
+    <scope>source.js</scope>
+    <description>页面初始化</description>
+</snippet>

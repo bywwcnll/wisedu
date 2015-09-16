@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getXY(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getXY</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取经纬度</description>
+</snippet>
