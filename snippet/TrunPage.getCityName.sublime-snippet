@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getCityName(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getCityName</tabTrigger>
+    <scope>source.js</scope>
+    <description>城市代码</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+function loadPage(){
+	${1}
+}
+]]></content>
+    <tabTrigger>loadPage</tabTrigger>
+    <scope>source.js</scope>
+    <description>public funtion</description>
+</snippet>

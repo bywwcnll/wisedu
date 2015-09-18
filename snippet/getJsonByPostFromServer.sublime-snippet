@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+getJsonByPostFromServer(${1:url}, ${2:onLoadServerDataSuccess}, ${3:data});
+]]></content>
+    <tabTrigger>getJsonByPostFromServer</tabTrigger>
+    <scope>source.js</scope>
+    <description>从服务器端获取数据</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+getJsonFormServerHtml(${1:url}, ${2:onLoadServerDataSuccess});
+]]></content>
+    <tabTrigger>getJsonFormServerHtml</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.setProgressBarVisibility(${1:true});
+]]></content>
+    <tabTrigger>TrunPage.setProgressBarVisibility</tabTrigger>
+    <scope>source.js</scope>
+    <description>去除/显示loading层</description>
+</snippet>

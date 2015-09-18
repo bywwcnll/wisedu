@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.dischargeConferenceOk(${1:title}, ${2:msg}, ${3:clickConfirm});
+]]></content>
+    <tabTrigger>TrunPage.dischargeConferenceOk</tabTrigger>
+    <scope>source.js</scope>
+    <description>会议室撤销</description>
+</snippet>

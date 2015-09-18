@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.uploadPhoto(${1:url}, ${2:jscallback});
+]]></content>
+    <tabTrigger>TrunPage.uploadPhoto</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

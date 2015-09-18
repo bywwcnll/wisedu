@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.openSysAlbum();
+]]></content>
+    <tabTrigger>TrunPage.openSysAlbum</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

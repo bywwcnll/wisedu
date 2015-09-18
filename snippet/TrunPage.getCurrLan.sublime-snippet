@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getCurrLan(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getCurrLan</tabTrigger>
+    <scope>source.js</scope>
+    <description>0中文 1英文</description>
+</snippet>

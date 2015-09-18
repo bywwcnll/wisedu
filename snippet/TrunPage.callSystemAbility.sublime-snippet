@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.callSystemAbility(${1});
+]]></content>
+    <tabTrigger>TrunPage.callSystemAbility</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.clife(${1:type}, ${2:codeLoccat}, ${3:title});
+]]></content>
+    <tabTrigger>TrunPage.clife</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.picGetAdress(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.picGetAdress</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取图片位置经纬度</description>
+</snippet>

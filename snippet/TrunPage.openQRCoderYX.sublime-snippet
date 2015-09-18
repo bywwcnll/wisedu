@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.openQRCoderYX(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.openQRCoderYX</tabTrigger>
+    <scope>source.js</scope>
+    <description>二维码调用</description>
+</snippet>

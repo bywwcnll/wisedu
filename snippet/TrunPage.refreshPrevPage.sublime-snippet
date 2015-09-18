@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.refreshPrevPage(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.refreshPrevPage</tabTrigger>
+    <scope>source.js</scope>
+    <description>刷新页面</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.share(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.share</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

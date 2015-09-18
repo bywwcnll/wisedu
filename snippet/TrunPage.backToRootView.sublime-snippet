@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.backToRootView();
+]]></content>
+    <tabTrigger>TrunPage.backToRootView</tabTrigger>
+    <scope>source.js</scope>
+    <description>关闭指定activity</description>
+</snippet>

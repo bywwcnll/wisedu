@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.setLeftBtnText(${1:text});
+]]></content>
+    <tabTrigger>TrunPage.setLeftBtnText</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置左边标题按钮文字</description>
+</snippet>

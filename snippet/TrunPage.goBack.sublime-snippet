@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.goBack();
+]]></content>
+    <tabTrigger>TrunPage.goBack</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

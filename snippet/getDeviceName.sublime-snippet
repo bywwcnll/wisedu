@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getDeviceName(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getDeviceName</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取设备名称</description>
+</snippet>

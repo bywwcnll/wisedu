@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.callSysAlbum(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.callSysAlbum</tabTrigger>
+    <scope>source.js</scope>
+    <description>调用相册</description>
+</snippet>

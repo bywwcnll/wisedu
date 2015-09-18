@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+postFormServerHtml(${1:url}, ${2:parameters}, ${3:onLoadServerDataSuccess});
+]]></content>
+    <tabTrigger>postFormServerHtml</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

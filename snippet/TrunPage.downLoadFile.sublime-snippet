@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.downLoadFile(${1:url}, ${2:filePath}, ${3:fileName}, ${4:jscallback});
+]]></content>
+    <tabTrigger>TrunPage.downLoadFile</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

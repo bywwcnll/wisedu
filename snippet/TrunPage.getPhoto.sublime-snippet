@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getPhoto(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getPhoto</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

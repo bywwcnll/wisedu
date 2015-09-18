@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.setRightBtnGoHistory(${1:true});
+]]></content>
+    <tabTrigger>TrunPage.setRightBtnGoHistory</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

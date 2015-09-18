@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getCookie(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getCookie</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取cookie值</description>
+</snippet>

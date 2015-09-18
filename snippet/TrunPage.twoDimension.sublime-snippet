@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.twoDimension(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.twoDimension</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

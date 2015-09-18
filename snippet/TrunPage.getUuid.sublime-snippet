@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getUuid(${1:function(data){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getUuid</tabTrigger>
+    <scope>source.js</scope>
+    <description>.</description>
+</snippet>

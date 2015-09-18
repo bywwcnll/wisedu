@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getCallbackParams(${1});
+]]></content>
+    <tabTrigger>TrunPage.getCallbackParams</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取传参值</description>
+</snippet>

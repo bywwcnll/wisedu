@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+getToken(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>getToken</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取token参数</description>
+</snippet>

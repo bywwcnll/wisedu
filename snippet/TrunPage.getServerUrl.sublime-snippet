@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getServerUrl(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getServerUrl</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取ServerUrl</description>
+</snippet>
