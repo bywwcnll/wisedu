@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.naviNavigation();
+]]></content>
+    <tabTrigger>TrunPage.naviNavigation</tabTrigger>
+    <scope>source.js</scope>
+    <description>调用百度地图规划路径</description>
+</snippet>

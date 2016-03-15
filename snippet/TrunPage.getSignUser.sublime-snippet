@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.getSignUser(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.getSignUser</tabTrigger>
+    <scope>source.js</scope>
+    <description>获取身份签名</description>
+</snippet>

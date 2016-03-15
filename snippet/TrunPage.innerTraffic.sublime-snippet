@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.innerTraffic(${1:schoolId}, ${2:type}, ${3:title});
-]]></content>
-    <tabTrigger>TrunPage.innerTraffic</tabTrigger>
-    <scope>source.js</scope>
-    <description>.</description>
-</snippet>

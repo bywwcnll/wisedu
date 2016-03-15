@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.notifyUI();
-]]></content>
-    <tabTrigger>TrunPage.notifyUI</tabTrigger>
-    <scope>source.js</scope>
-    <description>判断网络</description>
-</snippet>

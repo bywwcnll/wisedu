@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.mapShowAnnotations();
+]]></content>
+    <tabTrigger>TrunPage.mapShowAnnotations</tabTrigger>
+    <scope>source.js</scope>
+    <description>显示地图并绘制定位图标</description>
+</snippet>

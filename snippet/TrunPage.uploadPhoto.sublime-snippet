@@ -4,5 +4,5 @@ TrunPage.uploadPhoto(${1:url}, ${2:jscallback});
 ]]></content>
     <tabTrigger>TrunPage.uploadPhoto</tabTrigger>
     <scope>source.js</scope>
-    <description>.</description>
+    <description>获取上传图片的地址串</description>
 </snippet>

@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.setRightBtnSelect(${1:true});
-]]></content>
-    <tabTrigger>TrunPage.setRightBtnSelect</tabTrigger>
-    <scope>source.js</scope>
-    <description>控制订阅按钮显示状态</description>
-</snippet>

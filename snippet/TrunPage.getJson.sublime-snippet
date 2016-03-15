@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.getJson(${1:url});
-]]></content>
-    <tabTrigger>TrunPage.getJson</tabTrigger>
-    <scope>source.js</scope>
-    <description>.</description>
-</snippet>

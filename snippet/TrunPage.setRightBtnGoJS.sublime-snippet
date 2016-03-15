@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.setRightBtnGoJS();
-]]></content>
-    <tabTrigger>TrunPage.setRightBtnGoJS</tabTrigger>
-    <scope>source.js</scope>
-    <description>.</description>
-</snippet>

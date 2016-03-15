@@ -1,8 +1,8 @@
 <snippet>
    <content><![CDATA[
-TrunPage.openWebView("${1}", ${2:1}, "${3:详情}");
+TrunPage.loadWebView("${1}", ${2:1}, "${3:详情}");
 ]]></content>
-    <tabTrigger>TrunPage.openWebView</tabTrigger>
+    <tabTrigger>TrunPage.loadWebView</tabTrigger>
     <scope>source.js</scope>
     <description>打开新窗口</description>
 </snippet>

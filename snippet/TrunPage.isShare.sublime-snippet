@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.isShare(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.isShare</tabTrigger>
+    <scope>source.js</scope>
+    <description>分享启用状态</description>
+</snippet>

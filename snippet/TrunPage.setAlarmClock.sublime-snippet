@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.setAlarmClock(${1:roomStrId}, ${2:conferenceTime}, ${3:content});
-]]></content>
-    <tabTrigger>TrunPage.setAlarmClock</tabTrigger>
-    <scope>source.js</scope>
-    <description>闹铃提醒</description>
-</snippet>

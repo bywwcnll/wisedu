@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.cancelAlarmClock(${1:roomStrId});
-]]></content>
-    <tabTrigger>TrunPage.cancelAlarmClock</tabTrigger>
-    <scope>source.js</scope>
-    <description>闹铃提醒</description>
-</snippet>

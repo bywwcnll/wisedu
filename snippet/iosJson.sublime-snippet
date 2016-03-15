@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-iosJson(${1});
-]]></content>
-    <tabTrigger>iosJson</tabTrigger>
-    <scope>source.js</scope>
-    <description>.</description>
-</snippet>

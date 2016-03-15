@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.setTitle("${1}");
-]]></content>
-    <tabTrigger>TrunPage.setTitle</tabTrigger>
-    <scope>source.js</scope>
-    <description>设置标题</description>
-</snippet>

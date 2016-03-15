@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.setBackClose();
+]]></content>
+    <tabTrigger>TrunPage.setBackClose</tabTrigger>
+    <scope>source.js</scope>
+    <description>设置标题栏左侧显示关闭（×）图标</description>
+</snippet>

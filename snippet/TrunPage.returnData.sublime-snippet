@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.returnData();
-]]></content>
-    <tabTrigger>TrunPage.returnData</tabTrigger>
-    <scope>source.js</scope>
-    <description>.</description>
-</snippet>

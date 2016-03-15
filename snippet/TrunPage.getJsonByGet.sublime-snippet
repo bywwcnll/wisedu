@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.getJsonByGet(${1:url}, ${2:jscallback}, ${3:requestType});
-]]></content>
-    <tabTrigger>TrunPage.getJsonByGet</tabTrigger>
-    <scope>source.js</scope>
-    <description>native网路网络请求</description>
-</snippet>

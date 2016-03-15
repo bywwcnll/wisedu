@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.des3Decode(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.des3Decode</tabTrigger>
+    <scope>source.js</scope>
+    <description>3DES解密</description>
+</snippet>

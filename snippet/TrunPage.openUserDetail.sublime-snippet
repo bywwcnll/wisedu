@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.openUserDetail(${1:idUser});
-]]></content>
-    <tabTrigger>TrunPage.openUserDetail</tabTrigger>
-    <scope>source.js</scope>
-    <description>.</description>
-</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.sendMessage();
+]]></content>
+    <tabTrigger>TrunPage.sendMessage</tabTrigger>
+    <scope>source.js</scope>
+    <description>通过ids no.,发送消息</description>
+</snippet>

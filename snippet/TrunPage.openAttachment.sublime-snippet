@@ -1,8 +1,8 @@
 <snippet>
    <content><![CDATA[
-TrunPage.downLoadFile(${1:url}, ${2:filePath}, ${3:fileName}, ${4:jscallback});
+TrunPage.openAttachment();
 ]]></content>
-    <tabTrigger>TrunPage.downLoadFile</tabTrigger>
+    <tabTrigger>TrunPage.openAttachment</tabTrigger>
     <scope>source.js</scope>
     <description>根据提供的网络路径下载文件</description>
 </snippet>

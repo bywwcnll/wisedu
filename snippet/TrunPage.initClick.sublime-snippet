@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.initClick();
-]]></content>
-    <tabTrigger>TrunPage.initClick</tabTrigger>
-    <scope>source.js</scope>
-    <description>初始化按钮事件</description>
-</snippet>

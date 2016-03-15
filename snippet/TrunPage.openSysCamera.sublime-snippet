@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.openSysCamera(${1:true});
-]]></content>
-    <tabTrigger>TrunPage.openSysCamera</tabTrigger>
-    <scope>source.js</scope>
-    <description>打开照相机</description>
-</snippet>

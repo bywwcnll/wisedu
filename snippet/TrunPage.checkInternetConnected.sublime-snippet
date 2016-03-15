@@ -1,0 +1,10 @@
+<snippet>
+   <content><![CDATA[
+TrunPage.checkInternetConnected(${1:function(){
+	
+}});
+]]></content>
+    <tabTrigger>TrunPage.checkInternetConnected</tabTrigger>
+    <scope>source.js</scope>
+    <description>网络连接状态</description>
+</snippet>

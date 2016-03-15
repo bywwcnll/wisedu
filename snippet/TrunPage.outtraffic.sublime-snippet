@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.outtraffic(${1:begin}, ${2:end}, ${3:title});
-]]></content>
-    <tabTrigger>TrunPage.outtraffic</tabTrigger>
-    <scope>source.js</scope>
-    <description>获取经纬度</description>
-</snippet>

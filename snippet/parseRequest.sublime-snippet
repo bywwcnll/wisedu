@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-parseRequest(${1:paras});
-]]></content>
-    <tabTrigger>parseRequest</tabTrigger>
-    <scope>source.js</scope>
-    <description>解析参数</description>
-</snippet>

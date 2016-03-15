@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.setCancelProgressBar(${1:isCancel});
-]]></content>
-    <tabTrigger>TrunPage.setCancelProgressBar</tabTrigger>
-    <scope>source.js</scope>
-    <description>获取经纬度</description>
-</snippet>

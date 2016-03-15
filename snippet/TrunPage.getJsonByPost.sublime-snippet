@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.getJsonByPost(${1:url}, ${2:jscallback}, ${3:str});
-]]></content>
-    <tabTrigger>TrunPage.getJsonByPost</tabTrigger>
-    <scope>source.js</scope>
-    <description>.</description>
-</snippet>

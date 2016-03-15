@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.showImage(${1:index}, ${2:images}, ${3:names}, ${4:xs}, ${5:ys});
-]]></content>
-    <tabTrigger>TrunPage.showImage</tabTrigger>
-    <scope>source.js</scope>
-    <description>预览图片</description>
-</snippet>

@@ -1,8 +1,0 @@
-<snippet>
-   <content><![CDATA[
-TrunPage.playRecAudio(${1:src});
-]]></content>
-    <tabTrigger>TrunPage.playRecAudio</tabTrigger>
-    <scope>source.js</scope>
-    <description>.</description>
-</snippet>
